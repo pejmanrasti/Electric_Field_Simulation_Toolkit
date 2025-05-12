@@ -1,5 +1,5 @@
-### *Electric Field Simulation Toolkit*
-# ⚡ Modèle numérique des champs électriques pour les systèmes technologiques avancés  
+# *Electric Field Simulation Toolkit*
+### ⚡ Modèle numérique des champs électriques pour les systèmes technologiques avancés  
 
 🧠🔬 *Explore the invisible world of electric fields through interactive Python simulations!*
 
