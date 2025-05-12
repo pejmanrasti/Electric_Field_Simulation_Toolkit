@@ -2,7 +2,7 @@
 ### ⚡ Modèle numérique des champs électriques   
 
 🧠🔬 *Explore the invisible world of electric fields through interactive Python simulations!*
-
+[**⚙️ Simuler maintenant**](https://colab.research.google.com/drive/11_iIF5pQxR6SDaSDSJTxyv_a-q3niSTh?usp=sharing)
 ---
 
 ## 🌍 Contexte & Inspiration
